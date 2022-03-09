@@ -14,3 +14,11 @@ Model harus dibuat sekurang-kurangnya meliputi:
 4. Model Evaluation
 
 
+
+
+
+
+
+
+
+
