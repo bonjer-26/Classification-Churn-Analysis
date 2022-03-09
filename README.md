@@ -13,7 +13,14 @@ Model harus dibuat sekurang-kurangnya meliputi:
 3. Modeling
 4. Model Evaluation
 
+================
 
+Parameter Tuning
+
+Dalam hal tahap tuning ini, penulis menggunakan metode GeneticSelectionCV dari Library Scikit.learn.
+Metode ini digunakan untuk Feature Selection, mengeliminasi sejumlah feature yang digunakan dalam proses pemodelan dengan target: MENINGKATKAN KECEPATAN PEMODELAN.
+
+from genetic_selection import GeneticSelectionCV
 
 
 
