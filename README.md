@@ -22,7 +22,13 @@ Metode ini digunakan untuk Feature Selection, mengeliminasi sejumlah feature yan
 
 from genetic_selection import GeneticSelectionCV
 
+Feature Selection
 
+Dengan menggunakan library algoritma ini kita mampu mereduksi kombinasi sejumlah variabel yang digunakan untuk menghasilkan output model yang optimum.
+
+Dalam hal ini, kita melakukan reduksi sejumlah feature dari sumberdata sebesar 124 --> 50 feature.
+
+Selanjutnya kombinasi fitur ini digunakan untuk melakukan pemodelan data yang digunakan.
 
 
 
